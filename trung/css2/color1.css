@@ -1,0 +1,31 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+h1{
+	color: darkred;
+}
+h2{
+	color: violet;
+}
+h3{
+	color: sandybrown;
+}
+#Trung{
+	background-color: #abdbe3;
+    text-align: center;
+    padding: 90px 80px 90px 80px;
+}
+#Dung{
+	background-color: #00001a;
+	padding: 90px 80px 90px 80px;
+	text-align: center;
+}
+nav{
+	background-color: black;
+	text-align: left;
+}
+#b1{
+	background-color: hotpink;
+	text-align: center;
+}
